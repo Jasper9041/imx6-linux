@@ -2963,5 +2963,6 @@ CONFIG_AVERAGE=y
 
 # Others not listed but should probably be there
 CONFIG_VETH=y
+CONFIG_BRIDGE_NETFILTER=y
 # Enable backport overlay-fs
 CONFIG_OVERLAY_FS=y
