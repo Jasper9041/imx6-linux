@@ -1112,7 +1112,7 @@ CONFIG_SCSI_MOD=y
 # CONFIG_FIREWIRE is not set
 # CONFIG_FIREWIRE_NOSY is not set
 # CONFIG_I2O is not set
-# CONFIG_NETDEVICES is not set
+CONFIG_NETDEVICES=y
 
 #
 # Input device support
@@ -2962,6 +2962,7 @@ CONFIG_AVERAGE=y
 # CONFIG_VIRTUALIZATION is not set
 
 # Others not listed but should probably be there
+CONFIG_NET_CORE=y
 CONFIG_VETH=y
 CONFIG_BRIDGE_NETFILTER=y
 CONFIG_MEMCG=y
