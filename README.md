@@ -1,4 +1,4 @@
 imx6-linux
 ==========
 
-Linux kernel for the i.mx6 boards
+Linux kernel for the i.mx6 boards (with flags enabled for docker)
